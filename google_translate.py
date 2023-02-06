@@ -19,13 +19,6 @@ def data():
     dest_txt.insert(END, textget)
 
 
-
-
-
-
-
-
-
 root = Tk()
 root.title("Translator")
 root.geometry("500x700")
