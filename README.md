@@ -10,4 +10,4 @@ To run this code, you will need to download the code files and enter the directo
  pip install googletrans==3.1.0a0
  python google_translate.py
  ```
-
+![alt text](transl.png)
